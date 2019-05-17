@@ -1,2 +1,2 @@
 # javaconcurrency
-Cntains java concurrency problems
+Contains java concurrency problems
