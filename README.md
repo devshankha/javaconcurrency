@@ -1,2 +1,2 @@
 # javaconcurrency
-Contains java concurrency problems
+Contains java concurrency problems like dining philosophers
